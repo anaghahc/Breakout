@@ -1,0 +1,39 @@
+* {
+  background-color: black;
+  color: rgb(152, 192, 227);
+}
+
+h1 {
+  margin-left: 10px;
+  margin-top: 12px;
+}
+
+.grid {
+  position: absolute;
+  width: 560px;
+  height: 300px;
+  border: solid 1px rgb(152, 192, 227);
+  margin-top: 12px;
+}
+
+.user {
+  position: absolute;
+  width: 100px;
+  height: 20px;
+  background-color: #5ed378;
+}
+
+.block {
+  position: absolute;
+  width: 100px;
+  height: 20px;
+  background-color: #16679b;
+}
+
+.ball {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  background-color: #f17b7b;
+}
